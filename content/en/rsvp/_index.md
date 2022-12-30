@@ -11,14 +11,13 @@ menu:
 
 Use this form to RSVP.
 
-<form class="black-80 sans-serif" accept-charset="UTF-8" action="/rsvp-thank-you/" method="POST" role="form" name="rsvp" data-netlify="true" data-netlify-recaptcha="true" netlify>
-    <input type="hidden" name="form-name" value="contact" />
+<form class="black-80 sans-serif" name="contact" method="POST" action="/rsvp-thank-you/" role="form" name="rsvp" data-netlify="true" data-netlify-recaptcha="true">
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-name">Name</label>
-    <input type="text" id="rsvp-name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder="" aria-labelledby="rsvp-name"/>
+    <input type="text" id="rsvp-name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" aria-labelledby="rsvp-name"/>
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-email">Email</label>
-    <input type="email" id="rsvp-email" name="email" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=""  aria-labelledby="rsvp-email"/>
+    <input type="email" id="rsvp-email" name="email" class="w-100 f5 pv3 ph3 bg-light-gray bn" aria-labelledby="rsvp-email"/>
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-total">Total</label>
-    <input type="text" id="rsvp-total" name="total" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder="1"  aria-labelledby="rsvp-total"/>
+    <input type="text" id="rsvp-total" name="total" class="w-100 f5 pv3 ph3 bg-light-gray bn" value="1" aria-labelledby="rsvp-total"/>
     <div class="requirements f6 gray glow i ph3 overflow-hidden">Total number in your party, including yourself. Enter 0 if you are able to attend.</div>
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-message">Message (optional)</label>
     <textarea id="message" name="message" class="w-100 f5 pv3 ph3 bg-light-gray bn h4" aria-labelledby="message"></textarea>
