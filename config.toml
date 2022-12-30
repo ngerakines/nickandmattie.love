@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 # SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [languages]
   [languages.en]
