@@ -9,7 +9,7 @@ menu:
     weight: 5
 ---
 
-Use this form to RSVP.
+We're very excited to see you and share in this wonderful event. Please use the following form to RSVP.
 
 <form class="black-80 sans-serif" name="rsvpme" method="POST" action="/rsvp-thank-you/" role="form" name="rsvp" data-netlify="true" data-netlify-recaptcha="true">
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-name">Name</label>

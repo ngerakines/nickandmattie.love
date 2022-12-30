@@ -34,3 +34,7 @@ June 24th, 2023
 Hills and Dales Park, Paw Paw Pavilion, 100 Deep Hollow Rd, Kettering, OH 45419
 
 We'll have a beginner swing-dance lesson, drinks, and games.
+
+# Registry
+
+Your presence on our wedding day is the most important gift you could ever give us. Any giving will go towards our honeymoon.

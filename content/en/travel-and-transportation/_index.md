@@ -11,7 +11,9 @@ menu:
 
 # Stay
 
-Marriot
+Marriott at the University of Dayton
+
+1414 South Patterson Blvd. Dayton, OH 45409
 
 # Eat
 
