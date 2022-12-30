@@ -31,9 +31,9 @@ enableRobotsTXT = true
   background_color_class = "bg-light-green"
   recent_posts_number = 3
 
-[[params.ananke_socials]]
-name = "rss"
-url = "https://nickandmattie.love/"
+# [[params.ananke_socials]]
+# name = "rss"
+# url = "https://nickandmattie.love/"
 
 [markup.goldmark.renderer]
 unsafe = true
