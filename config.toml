@@ -1,5 +1,36 @@
 baseURL = 'http://nickandmattie.love/'
 languageCode = 'en-us'
-title = 'The Carter-Gerakines Wedding'
+title = 'The Gerakines-Carter Wedding'
 
 theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "The Gerakines-Carter Wedding"
+    weight = 1
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The Gerakines-Carter Wedding"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "rss"
+url = "https://nickandmattie.love/"
