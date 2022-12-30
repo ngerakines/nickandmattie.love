@@ -11,7 +11,7 @@ menu:
 
 Use this form to RSVP.
 
-<form class="black-80 sans-serif" accept-charset="UTF-8" action="/rsvp/thank-you/" method="POST" role="form" data-netlify="true" netlify>
+<form class="black-80 sans-serif" accept-charset="UTF-8" action="/rsvp-thank-you/" method="POST" role="form" name="rsvp" netlify>
     <input type="hidden" name="form-name" value="contact" />
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-name">Name</label>
     <input type="text" id="rsvp-name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder="" aria-labelledby="rsvp-name"/>
