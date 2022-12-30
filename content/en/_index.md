@@ -1,8 +1,7 @@
 ---
-title: "Home"
+# title: "Home"
 
 description: "The wedding of Nick Gerakines and Mattie Carter"
-theme_version: '2.8.2'
 cascade:
   featured_image: 'IMG_3335.jpeg'
 ---
