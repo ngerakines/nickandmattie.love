@@ -18,6 +18,7 @@ June 24th, 2023
 5:30 PM
 
 Top of the Market
+
 32 Webster St, Dayton, OH 45402
 
 ## Reception
@@ -25,6 +26,7 @@ Top of the Market
 6:00 PM
 
 Top of the Market Warehouse
+
 32 Webster St, Dayton, OH 45402
 (It's the same place.)
 
