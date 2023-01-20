@@ -1,6 +1,5 @@
 ---
 title: Meet the wedding party
-authors: ["Mattie"]
 ---
 
 Officient: Harrison Frasier
