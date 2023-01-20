@@ -9,9 +9,11 @@ menu:
     weight: 5
 ---
 
+<div class="tl">
+
 We're very excited to see you and share in this wonderful event. Please use the following form to RSVP.
 
-<form class="black-80 sans-serif" name="rsvpme" method="POST" action="/rsvp-thank-you/" role="form" name="rsvp" data-netlify="true" data-netlify-recaptcha="true">
+<form class="black-80 sans-serif pb3" name="rsvpme" method="POST" action="/rsvp-thank-you/" role="form" name="rsvp" data-netlify="true" data-netlify-recaptcha="true">
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-name">Name</label>
     <input type="text" id="rsvp-name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" aria-labelledby="rsvp-name"/>
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="rsvp-email">Email</label>
@@ -25,4 +27,8 @@ We're very excited to see you and share in this wonderful event. Please use the 
     <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="Submit" />
 </form>
 
-If you need to make changes to your reservation, please email <a href="mailto:rsvp@nickandmattie.love">rsvp@nickandmattie.love</a>.
+<hr />
+
+<p class="pt3">If you need to make changes to your reservation, please email send an email to <a href="mailto:rsvp@nickandmattie.love">rsvp@nickandmattie.love</a> with details.</p>
+
+</div>

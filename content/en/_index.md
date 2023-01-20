@@ -9,7 +9,7 @@ The big day is June 24th, 2023. Join us in Dayton, Ohio.
 <p id="theDay">... </p>
 
 <script>
-var countDownDate = new Date("Jun 24, 2023 17:0:000").getTime();
+var countDownDate = new Date("Jun 24, 2023 17:00:000").getTime();
 var x = setInterval(function() {
   var now = new Date().getTime();
   var distance = countDownDate - now;

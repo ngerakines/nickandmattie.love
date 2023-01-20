@@ -1,5 +1,6 @@
 ---
 title: Meet the wedding party
+summary: "The wedding party includes our officient, bride's party, and groom's party."
 ---
 
 Officient: Harrison Frasier
